@@ -1,0 +1,4 @@
+module PersistedSpacesBridge {
+    header "PersistedSpacesBridge.h"
+    export *
+}
